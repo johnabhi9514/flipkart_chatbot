@@ -1,9 +1,4 @@
 ## Flipkart Chatbot 
-
-Demo  : 
-
-<img width="817" height="795" alt="image" src="https://github.com/user-attachments/assets/c476cb8c-2635-41bf-9833-2d07e0b04039" />
-
 ---
 
 ### 1. Initial Setup
@@ -232,4 +227,5 @@ Green success mesaage shown....
 
 Now make a dashboard for different visualization
 See course video for that....
+
 ```
